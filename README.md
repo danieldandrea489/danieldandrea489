@@ -5,8 +5,10 @@
 
 
 <h2> About Me</h2>
-My name is Daniel D'Andrea
-Missouri S&T CS/CE
+<ul>
+<li> My name is Daniel D'Andrea and I am a Dual CS & CE student at MST</li>
+  
+</ul>
 <!--
 **danieldandrea489/danieldandrea489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
