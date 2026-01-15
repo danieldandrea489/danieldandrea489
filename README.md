@@ -32,8 +32,7 @@
 
 <h2> Contact me</h2>
 <ul>
-<li> My name is Daniel D'Andrea and I am a Dual CS & CE student at MST</li>
-<li><a emailto: ddandrea489@gmail.com> ddandrea489@gmail.com</a></li>
+<li><a  href = "mailto: ddandrea489@gmail.com"> ddandrea489@gmail.com</a></li>
 <li> <a href = "https://www.linkedin.com/in/danieldandrea2025/"> LinkedIn </a></li>
   
 </ul>
