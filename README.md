@@ -5,7 +5,7 @@
 
 
 
-## Hi there 👋
+<h2> About Me</h2>
 My name is Daniel D'Andrea
 Missouri S&T CS/CE
 <!--
