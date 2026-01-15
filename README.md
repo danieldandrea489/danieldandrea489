@@ -21,11 +21,11 @@
 </ul>
 
 
-<h2> Languages</h2>
+<h2> Technical Skills</h2>
 <ul>
-<li> My name is Daniel D'Andrea and I am a Dual CS & CE student at MST</li>
-<li> Aspiring Software Engineer looking for Internships</li>
-<li> Student Athlete</li>
+<li> <b> Languages:</b> C++,Python,Java,Javascript,HTML,CSS</li>
+<li> <b> Developer Tools:</b> Git, Github, Visual Studio, VS Code, Firebase, IntelliJ</li>
+<li> <b> Certifications:</b> Sololearn- Python(Beginner & Intermediate), C++(Beginner), Web Dev(Beginner)</li>
   
 </ul>
 
@@ -33,8 +33,8 @@
 <h2> Contact me</h2>
 <ul>
 <li> My name is Daniel D'Andrea and I am a Dual CS & CE student at MST</li>
-<li> Aspiring Software Engineer looking for Internships</li>
-<li> Student Athlete</li>
+<li><a emailto: ddandrea489@gmail.com> ddandrea489@gmail.com</a></li>
+<li> <a href = "https://www.linkedin.com/in/danieldandrea2025/"> LinkedIn </a></li>
   
 </ul>
 <!--
