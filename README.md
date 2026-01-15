@@ -1,7 +1,4 @@
-<center>
-# Daniel D'Andrea
-</center>
-
+<h1 align="center">Daniel D'Andrea</h1>
 
 
 
