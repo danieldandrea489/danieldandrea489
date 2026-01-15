@@ -7,6 +7,8 @@
 <h2> About Me</h2>
 <ul>
 <li> My name is Daniel D'Andrea and I am a Dual CS & CE student at MST</li>
+<li> Aspiring Software Engineer looking for Internships</li>
+<li> Student Athlete</li>
   
 </ul>
 <!--
